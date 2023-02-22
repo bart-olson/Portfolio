@@ -2,11 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 title: Homepage
 ---
-
-<p style="text-align: center">
 
 ---
 # This is the homepage of my new portfolio, and is in progress!  
@@ -16,5 +14,3 @@ title: Homepage
 [contact](https://bart-olson.github.io/Portfolio/contact/)
 [Blender](https://bart-olson.github.io/Portfolio/blender/)
 [Unreal](https://bart-olson.github.io/Portfolio/unreal/)
-
-</p>
