@@ -6,7 +6,7 @@ layout: home
 title: Homepage
 ---
 
-<p align="center">
+<p style="text-align: center">
 
 ---
 # This is the homepage of my new portfolio, and is in progress!  
