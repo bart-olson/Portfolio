@@ -6,13 +6,15 @@ layout: home
 title: Homepage
 ---
 
+<div align="center">
+
 ---
 # This is the homepage of my new portfolio, and is in progress!  
 ---
 
-About me: [about](https://bart-olson.github.io/Portfolio/about/)  
-If you want to contact me, see here: [contact](https://bart-olson.github.io/Portfolio/contact/)  
+[about](https://bart-olson.github.io/Portfolio/about/)
+[contact](https://bart-olson.github.io/Portfolio/contact/)
+[Blender](https://bart-olson.github.io/Portfolio/blender/)
+[Unreal](https://bart-olson.github.io/Portfolio/unreal/)
 
-If you want to look at some interesting things I've been doing, try these links:  
-[Blender](https://bart-olson.github.io/Portfolio/blender/)  
-[Unreal](https://bart-olson.github.io/Portfolio/unreal/)  
+</div>
