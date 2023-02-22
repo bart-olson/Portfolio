@@ -2,7 +2,7 @@
 layout: page
 title: "Contact Bart"
 permalink: /contact/
-light_mode: true
+light_mode: false
 ---
 
 Basic contact info  
