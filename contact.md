@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: "Contact Bart"
 permalink: /contact/
 ---
+
+change marker 1  
 
 ## Bartholomew Olson  
 ### Software Engineer  
