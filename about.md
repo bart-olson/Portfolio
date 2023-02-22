@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-<iframe src="C:\Users\barto\OneDrive\Desktop\untitledSurvival\assets\BartEE_resume.pdf" type="application/pdf" width="100%" height="600px"></iframe>
+
+<object data="{{ https://bart-olson.github.io/Portfolio/about }}{{ https://bart-olson.github.io/Portfolio/ }}/assets/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
