@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Untitled Survival Game Project!
+title: Bart Olson Portfolio
 email: bartolson1189@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A dev-log/portfolio for a survival game I'm making!
