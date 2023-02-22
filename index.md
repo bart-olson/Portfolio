@@ -6,10 +6,10 @@ layout: home
 title: Homepage
 ---
 
-This is the homepage of my new portfolio
-About me: [about](https://bart-olson.github.io/untitledSurvival/about/)
-If you want to contact me, see here: [contact](https://bart-olson.github.io/untitledSurvival/contact/)
+This is the homepage of my new portfolio  
+About me: [about](https://bart-olson.github.io/Portfolio/about/)  
+If you want to contact me, see here: [contact](https://bart-olson.github.io/Portfolio/contact/)  
 
-If you want to look at some interesting things I've been doing, try these links:
-[Blender](https://bart-olson.github.io/untitledSurvival/blender/)
-[Unreal](https://bart-olson.github.io/untitledSurvival/unreal/)
+If you want to look at some interesting things I've been doing, try these links:  
+[Blender](https://bart-olson.github.io/Portfolio/blender/)  
+[Unreal](https://bart-olson.github.io/Portfolio/unreal/)  
