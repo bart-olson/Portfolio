@@ -4,7 +4,6 @@
 
 layout: home
 title: Homepage
-light_mode: false
 ---
 
 ---

@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /blender/
-light_mode: false
 ---
 
 Here's a page that will have stuff about blender  
