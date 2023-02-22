@@ -4,9 +4,13 @@
 
 layout: home
 title: Homepage
+light_mode: true
 ---
 
-This is the homepage of my new portfolio  
+---
+# This is the homepage of my new portfolio, and is in progress!  
+---
+
 About me: [about](https://bart-olson.github.io/Portfolio/about/)  
 If you want to contact me, see here: [contact](https://bart-olson.github.io/Portfolio/contact/)  
 
