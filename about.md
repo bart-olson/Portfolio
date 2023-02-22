@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-<object data="assets/BartEE_resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+<embed src="/assets/BartEE_resume.pdf" type="application/pdf" width="100%" height="600px" />
