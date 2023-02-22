@@ -45,7 +45,8 @@ Add the tree generator (gif)
 ![missing picture of a sculpted something](https://bart-olson.github.io/Portfolio/assets/crundle_front.png) /
 ![missing picture of a sculpted something](https://bart-olson.github.io/Portfolio/assets/crundle_back.png) /
 ![missing picture of a sculpted something](https://bart-olson.github.io/Portfolio/assets/crundle_art.png)  
-<p style="text-align:center;">Another fun little character, based on the Crundle from Dwarf Fortress, and this person's wonderful art: [androidarts](http://www.androidarts.com/df/dorf.htm)  </p>
+<p style="text-align:center;">Another fun little character, based on the Crundle from Dwarf Fortress, and this person's wonderful art:</p>
+[androidarts](http://www.androidarts.com/df/dorf.htm)
 
 <h2 style="text-align:center;"> Finishing these projects  </h2>
 <p style="text-align:center;">As I mentioned, I'm not an artist, and am not promoting myself as one. That being said, I absolutely LOVE Blender! It's such an incredible tool, and I feel like I've barely scratched the surface of what it can do. I've dabbled in Retopology and animation as well, but found those tasks to be very taxing and not nearly as much fun as sculpting. I certainly have plans to finish these projects, but have been putting it off until I have a clearer vision of my needs and art style. 
