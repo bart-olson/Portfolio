@@ -4,10 +4,10 @@ title: About
 permalink: /blender/
 ---
 
-<div align="center">
+<p align="center">
 
 Here's a page that will have stuff about blender  
 
 [Home](https://bart-olson.github.io/Portfolio/)
 
-</div>
+</p>

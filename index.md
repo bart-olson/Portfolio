@@ -6,7 +6,7 @@ layout: home
 title: Homepage
 ---
 
-<div align="center">
+<p align="center">
 
 ---
 # This is the homepage of my new portfolio, and is in progress!  
@@ -17,4 +17,4 @@ title: Homepage
 [Blender](https://bart-olson.github.io/Portfolio/blender/)
 [Unreal](https://bart-olson.github.io/Portfolio/unreal/)
 
-</div>
+</p>
