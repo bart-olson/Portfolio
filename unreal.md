@@ -12,6 +12,9 @@ That being said, I chose a voxel plugin because I really enjoy games with voxels
 
 
 <h2 style="text-align:center;">Landform generation  </h2>
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=xXSTk4rUvJo&ab_channel=SkogshammareCrafts"> </iframe>
+
 <p style="text-align:center;">If you've looked at my Blender page, you know I love procedural generation, and I like thinking about how to apply it properly! There's plenty of places that there's too much procedural generation and the whole feel becomes kind of bland - but a careful ratio of procedural generation to points of interest and hand-crafted assets can not only reduce workload for developers, but endlessly explorable worlds for players!  <br>
 
 VP has standard noise nodes already, with plans to build more in the future. These can be combined with several other tools that set the plugin apart from a simple terrain generator. The two I'm most interested in are Voxel Landmass Actors and Voxel Heatmaps.  <br>
