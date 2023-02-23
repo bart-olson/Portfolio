@@ -8,24 +8,26 @@ permalink: /blender/
 
 
 
-<h2 style="text-align:center;"> Procedural Generation  </h2>
-<p style="text-align:center;">I love procedural generation in Blender and Unreal. There's a huge variety of things you can make this way, but it's also true that it has limitations. I've played several games that felt TOO procedural, where after visiting a small handful of places, you get the feel for the rest of the places as well, and the 'infinite exploration' promised doesn't quite feel infinite any more!  </p>
+<h2 style="text-align:center;"> Procedural Generation</h2>
+<p style="text-align:center;">I love procedural generation in Blender and Unreal. There's a huge variety of things you can make this way, but it's also true that it has limitations. I've played several games that felt TOO procedural, where after visiting a small handful of places, you get the feel for the rest of the places as well, and the 'infinite exploration' promised doesn't quite feel infinite any more!</p><br>
 
-![missing picture of stuff!](https://bart-olson.github.io/Portfolio/assets/goblinhead.png)
-<p style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/goblinhead.png' width ='100' height='100'></p>
-Add the hexagonal landscape generator (gif)
-Add the landscape generator
-Add the tree generator (gif)
+<p style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/goblinhead.png' width ='100' height='100'></p><br>
+Add the hexagonal landscape generator (gif)  
+Add the landscape generator  
+Add the tree generator (gif)  
 
 
 
 <h2 style="text-align:center;"> Low-Poly  </h2>
 <p style="text-align:center;">explanation of why I like/choose low-poly  </p>
 
-![missing picture of trees](https://bart-olson.github.io/Portfolio/assets/trees_1_5.png) /
-![missing picture of trees](https://bart-olson.github.io/Portfolio/assets/trees_6_10.png)  
-![missing picture of trees](https://bart-olson.github.io/Portfolio/assets/trees_11_15.png) /
-![missing picture of trees](https://bart-olson.github.io/Portfolio/assets/trees_16_20.png)  
+<p style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/trees_1_5.png' width ='300' height='100'> <img src='https://bart-olson.github.io/Portfolio/assets/trees_6_10.png' width ='300' height='100'></p><br>
+
+<p style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/trees_11_15.png' width ='300' height='100'> <img src='https://bart-olson.github.io/Portfolio/assets/trees_16_20.png' width ='300' height='100'></p><br>
+
+<p style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/trees_21_25.png' width ='300' height='100'> <img src='https://bart-olson.github.io/Portfolio/assets/trees_26_30.png' width ='300' height='100'></p><br>
+<p style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/trees_31_35.png' width ='300' height='100'></p><br>
+
 <p style="text-align:center;">Just some simple low poly trees. I live in the forest, and have always been a little disappointed with the lack of 'realism' in low-poly tree packages. So I made my own that's a little more representative of the beat-up trees I hike through every day while I walk the dogs.  </p>
 
 ![missing picture of rocks](https://bart-olson.github.io/Portfolio/assets/rocks.png)  
