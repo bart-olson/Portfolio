@@ -12,6 +12,7 @@ permalink: /blender/
 <p style="text-align:center;">I love procedural generation in Blender and Unreal. There's a huge variety of things you can make this way, but it's also true that it has limitations. I've played several games that felt TOO procedural, where after visiting a small handful of places, you get the feel for the rest of the places as well, and the 'infinite exploration' promised doesn't quite feel infinite any more!  </p>
 
 ![missing picture of stuff!](https://bart-olson.github.io/Portfolio/assets/goblinhead.png)
+<img src='https://bart-olson.github.io/Portfolio/assets/goblinhead.png' width ='100' height='100'>
 Add the hexagonal landscape generator (gif)
 Add the landscape generator
 Add the tree generator (gif)
