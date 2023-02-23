@@ -21,10 +21,10 @@ Voxel landmass actors take in a static mesh, then convert it into voxels - meani
 Next up is the Voxel Heatmap, which I'm really excited to use more. The basic concept is that you can build a .png heatmap using something like Photoshop or Blender, then import that and connect it to the Voxel Heatmap object, then spawn that on top of your terrain. It doesn't just replace the terrain though, it melds with it like a Voxel Landmass Actor described above, so that means you can use different organizations and setups of heatmaps in one piece of terrain. This is key to keeping procedural generation interesting, I think. You can combine elements of hand-construction with elements of procedural generation to get the right mix. I'll go over it in a later section, but masking the terrain in different ways will lead to a lot of options for building interesting terrain. Cave generation (probably via splines) is not in VP yet, but should be coming 'back' soon since it was in before. Did I mention it's in beta?  </p>
 
 <h2 style="text-align:center;">Foliage Masking  </h2>
-<p style="text-align:center;">  </p>
+<p style="text-align:center;">Foliage masking is a really cool feature of VP. I actually assumed that Unreal Engine had something similar built in, but it appears they don't, which sort of makes Voxel Plugin's feature even cooler! The concept is pretty simple - You can mask an area of terrain based on it's (x,y) positions using any kind of math - x-position, y-position, both, x,y,z position, and any number of equations. Chiefly this will be used to create biomes of different kinds - by masking both terrain type and foliage, you can generate procedural landscape as far as you want, just like Valheim! Here's some experiments I've done so far on this concept, and the relevant parts of the graph, in case you're here to look at that.  </p>
 
 <h2 style="text-align:center;">Runtime Terrain Deformation  </h2>
-<p style="text-align:center;">  </p>
+<p style="text-align:center;">This is especially interesting to me - it's what's expected from a voxel plugin, but there's really endless options for a game that has it in terms of ways to use it. My goal is to eventually build a game that has a large number of magic spells that are used to deform/destroy/build on terrain. Imagine Deep Rock Galactic, but it was a multiplayer spell battle game!   </p>
 
 <h2 style="text-align:center;">Landscape Materials  </h2>
 <p style="text-align:center;">  </p>
