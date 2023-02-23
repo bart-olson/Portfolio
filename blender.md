@@ -8,7 +8,7 @@ permalink: /blender/
 
 <hr>
 
-<p style="text-align:center;"> Here's some of my adventures in Blender! While I'm not an expert and not promoting myself as an artist, I believe it's valuable to have tool familiarity! Plus if I want unique assets for any games I build, I'll need to make them myself, and blender has been a perfect tool for that!  </p>
+<p style="margin:0px, 1000px"> Here's some of my adventures in Blender! While I'm not an expert and not promoting myself as an artist, I believe it's valuable to have tool familiarity! Plus if I want unique assets for any games I build, I'll need to make them myself, and blender has been a perfect tool for that!  </p>
 
 <h2 style="text-align:center;"> Procedural Generation</h2>
 <p style="text-align:center;">I love procedural generation in Blender and Unreal. There's a huge variety of things you can make this way, but it's also true that it has limitations. I've played several games that felt TOO procedural, where after visiting a small handful of places, you get the feel for the rest of the places as well, and the 'infinite exploration' promised doesn't quite feel infinite any more!</p><br>
