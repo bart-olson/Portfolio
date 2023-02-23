@@ -4,22 +4,13 @@ title: Blender Work
 permalink: /blender/
 ---
 
-<head>
-    <style>
-        p {
-            text-align: center;
-            margin: 0 300;
-        }
-    </style>
-</head>
-
 <p style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/goblinhead.png' width ='100' height='100'></p><br>
 
 <hr>
 
-change marker 1
+change marker 2
 
-<p> Here's some of my adventures in Blender! While I'm not an expert and not promoting myself as an artist, I believe it's valuable to have tool familiarity! Plus if I want unique assets for any games I build, I'll need to make them myself, and blender has been a perfect tool for that!  </p>
+<p> Here's some of my adventures in Blender! While I'm not an expert and not promoting myself as an artist, I believe it's valuable to have tool familiarity! Plus if I want unique assets for any games I build, I'll need to make them myself, and blender has been a perfect tool for that.  </p>
 
 <h2 style="text-align:center;"> Procedural Generation</h2>
 <p style="text-align:center;">I love procedural generation in Blender and Unreal. There's a huge variety of things you can make this way, but it's also true that it has limitations. I've played several games that felt TOO procedural, where after visiting a small handful of places, you get the feel for the rest of the places as well, and the 'infinite exploration' promised doesn't quite feel infinite any more!</p><br>
