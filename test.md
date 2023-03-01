@@ -6,7 +6,7 @@ permalink: /test/
 <style>
 div {
   text-align: center;
-  width:200px;
+  width:800px;
   background:blue;
 }
 div p{
