@@ -11,9 +11,9 @@ title: Bart Olson Portfolio
 
 
 <h2 style="text-align:center;">Untitled Survival Game  </h2>
-<p style="text-align:center;">This is a personal project that I'm using it to build my own experience, as well as having a project to get my 13-year old nephew Kenai interested in game development. His favorite games are Minecraft and Valheim, so we settled on a Valheim-style survival game, but in a Lovecraftian Horror setting. You start the game as an aspiring wizard attempting to call a demon from a different realm, but a flaw in the spell sends you there instead! At first the setting seems the same as the forest you attempted the spell in, but as you venture outward, things become stranger and stranger, and the cute, benign demons that greeted you in the forest become intelligent and malicious. We wanted a fun spin on the typical survival experience with a bit of a surprise as you piece together just how wrong things have gone, and work to figure out uses for obscure demon-realm materials.<br><br>
+<p style="text-align:center;">This is a personal project that I'm using to build my own experience, as well as having a project to get my 13-year old nephew Kenai interested in game development. His favorite games are Minecraft and Valheim, so we settled on a Valheim-style survival game, but in a Lovecraftian Horror setting. You start the game as an aspiring wizard attempting to call a demon from a different realm, but a flaw in the spell sends you there instead! At first the setting seems the same as the forest you attempted the spell in, but as you venture outward, things become stranger and stranger, and the cute, benign demons that greeted you in the forest become intelligent and malicious. We wanted a fun spin on the typical survival experience with a bit of a surprise as you piece together just how wrong things have gone, and work to figure out uses for obscure demon-realm materials.<br><br>
 
-My nephew is primarily interested in doing animation (he has been making lego stop-motion videos for several years) so I'm getting him up to speed in Blender while I work on everything else as a generalized gameplay programmer.  Here are some of the things I've been working on:<br><br>  </p>
+My nephew is primarily interested in doing animation (he has been making lego stop-motion videos for several years) so I'm getting him up to speed in Blender while I work on everything else as a generalized gameplay programmer.  <br><br>  </p>
 
 <h3 style="text-align:center;">My contributions to the project:</h3><br>
 <ul><p style="text-align:center;">
@@ -27,7 +27,7 @@ My nephew is primarily interested in doing animation (he has been making lego st
     <li>All other general programming work</li>
 </p></ul>
 
-<p style="text-align:center;">I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal</a> Engine specific page.  It also includes a lot of more specific information on what I'm doing in Unreal, so feel free to have a look! </p>
+<p style="text-align:center;">I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a> specific page.  It also includes a lot of more specific information on what I'm doing in Unreal, so feel free to have a look! </p>
 
 
 <h2 style="text-align:center;">Tethers Unlimited Physics Simulation  </h2>
