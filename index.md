@@ -16,7 +16,7 @@ title: Bart Olson Portfolio
 My nephew is primarily interested in doing animation (he has been making lego stop-motion videos for several years) so I'm getting him up to speed in Blender while I work on everything else as a generalized gameplay programmer.  Here are some of the things I've been working on:<br><br>  </p>
 
 <h3 style="text-align:center;">My contributions to the project:</h3><br>
-<p style="text-align:center;"><ul>
+<ul><p style="text-align:center;">
     <li>Inventory, container, and object interaction system</li>
     <li>Voxel Plugin procedural terrain generation</li>
     <li>Voxel Plugin biome generation and masking</li>
@@ -25,7 +25,7 @@ My nephew is primarily interested in doing animation (he has been making lego st
     <li>Landscape material creation</li>
     <li>Simple AI programming</li>
     <li>All other general programming work</li>
-</ul></p>
+</p></ul>
 
 <p style="text-align:center;">I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal</a> Engine specific page.  It also includes a lot of more specific information on what I'm doing in Unreal, so feel free to have a look! </p>
 
