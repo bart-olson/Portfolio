@@ -15,5 +15,5 @@ div p{
 </style>
 
 <div>
-   <p>Test</p>
+   <p>Welcome to my portfolio! My name is Bartholomew Olson - I'm an Electrical Engineer, but have been working as a software engineer for the past 5 years. I'm taking those skills and working on making the move into game development.</p>
 </div>
