@@ -48,4 +48,4 @@ Next up is the Voxel Heatmap, which I'm really excited to use more. The basic co
 <h2>  </h2>
 <p>  </p>
 
-[Home](https://bart-olson.github.io/Portfolio/)
+<a href="https://bart-olson.github.io/Portfolio/">Home</a>

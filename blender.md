@@ -66,4 +66,4 @@ permalink: /blender/
 
 I'm also still learning Unreal Engine, and the behavior of materials and textures between Blender and Unreal. There are pretty significant hurdles for people who are new to the area! </p> <br>
 
-[Home](https://bart-olson.github.io/Portfolio/)
+<a href="https://bart-olson.github.io/Portfolio/">Home</a>
