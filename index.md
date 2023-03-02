@@ -37,7 +37,7 @@ My nephew is primarily interested in doing animation (he has been making lego st
 <i><img src='https://bart-olson.github.io/Portfolio/assets/foliage_masking.png' width ='500' height='250'></i><br>
 <i><img src='https://bart-olson.github.io/Portfolio/assets/runtime_deformation.png' width ='500' height='250'></i>
 
-<p>I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a> specific page.  I also go into more detail on what I'm doing in Unreal, so feel free to have a look! </p>
+<p>I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/"style="font-size: 18px;">Unreal Engine</a> specific page.  I also go into more detail on what I'm doing in Unreal, so feel free to have a look! </p>
 
 
 <h2>Tethers Unlimited Physics Simulation  </h2>
