@@ -14,14 +14,12 @@ permalink: /about/
 
 <hr>
 
-<h2>Education</h2>
+<h2>Education and Training</h2>
 <h3>BA, Foreign Languages - University of Alaska, Fairbanks - June 2011</h3>
 <p>Concentration in Japanese and German</p><br>
 
-<hr>
-
-<h2>Training</h2>
 <h3>Computer/Detection Systems Repairer, MOS-Qualified 94F - US Army Reserves, 2012-2018</h3><br>
+<p>I served in the Army Reserves for 6 years, gaining experience as an electronics technician. I used this experience to get my first jobs as an electronics technician, eventually leading me to going back to school for engineering.</p><br>
 
 <hr>
 
