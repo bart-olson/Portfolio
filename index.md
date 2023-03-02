@@ -7,7 +7,7 @@ title: Bart Olson Portfolio
 <h1 style="text-align:center;">Bartholomew Olson's Software Engineer and Game Development Portfolio  </h1>  
 ---
 
-<p style="text-align:center;">Welcome to my portfolio! My name is Bartholomew Olson - I'm an Electrical Engineer, but have been working as a software engineer for the past 5 years. I'm taking those skills and working on making the move into game development. It's been a wild ride and I've done a lot of different things, but I like to think that's where my strengths lie, and I'd like to share some of my experiences with you! I'm also new to website building, so please bear with as this gets developed and starts looking better!  You can see my gamedev-relevant experience below, or head to the bottom to see some links to other interesting projects I've worked on.  </p>
+<p>Welcome to my portfolio! My name is Bartholomew Olson - I'm an Electrical Engineer, but have been working as a software engineer for the past 5 years. I'm taking those skills and working on making the move into game development. It's been a wild ride and I've done a lot of different things, but I like to think that's where my strengths lie, and I'd like to share some of my experiences with you! I'm also new to website building, so please bear with as this gets developed and starts looking better!  You can see my gamedev-relevant experience below, or head to the bottom to see some links to other interesting projects I've worked on.  </p>
 
 
 <h2 style="text-align:center;">Untitled Survival Game  </h2>
