@@ -20,9 +20,9 @@ title: Bart Olson Portfolio
 <h2>Untitled Survival Game  </h2>
 <p>This is a personal project that I'm using to build my own experience, as well as having a project to get my 13-year old nephew Kenai interested in game development. His favorite games are Minecraft and Valheim, so we settled on a Valheim-style survival game, but in a Lovecraftian Horror setting. You start the game as an aspiring wizard attempting to call a demon from a different realm, but a flaw in the spell sends you there instead! At first the setting seems the same as the forest you attempted the spell in, but as you venture outward, things become stranger and stranger, and the cute, benign demons that greeted you in the forest start becoming intelligent and malicious. We wanted a fun spin on the typical survival experience with a bit of a surprise as you piece together just how wrong things have gone, and work to figure out uses for obscure demon-realm materials.<br><br>
 
-My nephew is primarily interested in doing animation (he has been making lego stop-motion videos for several years) so I'm getting him up to speed in Blender while I work on everything else as a generalized gameplay programmer.  <br><br>
+My nephew is primarily interested in doing animation (he has been making lego stop-motion videos for several years) so I'm getting him up to speed in Blender while I work on everything else as a generalized gameplay programmer.  <br>
 
-<h3>My contributions to the project:</h3><br>
+<h3>My contributions to the project:</h3>
 <p>
     - Inventory, container, and object interaction system<br>
     - Voxel Plugin procedural terrain generation<br>
@@ -34,11 +34,14 @@ My nephew is primarily interested in doing animation (he has been making lego st
     - All other general programming work<br><br>
 </p>
 
-<p>I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a> specific page.  It also includes a lot of more specific information on what I'm doing in Unreal, so feel free to have a look! </p>
+<i><img src='https://bart-olson.github.io/Portfolio/assets/foliage_masking.png' width ='500' height='250'></i><br>
+<i><img src='https://bart-olson.github.io/Portfolio/assets/runtime_deformation.png' width ='500' height='250'></i>
+
+<p>I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a> specific page.  I also go into more detail on what I'm doing in Unreal, so feel free to have a look! </p>
 
 
 <h2>Tethers Unlimited Physics Simulation  </h2>
-<p>At Tethers, I was tasked with creating a physics simulation of a radio satellite orbiting the Earth. The communication dish on the satellite was on a gimbal that had also been designed at Tethers, so I had access to the kinematic equations for how it operated, and integrated those into my project. The aim was to reduce the cost of planning when a satellite could communicate with a ground station - satellite operators have to buy time at ground stations to dump their satellite's data when it is overhead. In this scheme, satellites would search for, find, connect with, and dump their data to any ground station, which would then contact the satellite's operators. I began this project in MATLAB, then moved it to C++ when it got too big to be handled there.  </p>
+<p>At Tethers, I was tasked with creating a physics simulation of a radio satellite orbiting the Earth. The communication dish on the satellite was on a gimbal that had also been designed at Tethers, so I had access to the kinematic equations for how it operated, and integrated those into my project. The aim was to reduce the cost of planning when a satellite could communicate with a ground station - satellite operators have to buy time at ground stations to dump their satellite's data when it is overhead. In this scheme, satellites would search for, find, connect with, and dump their data to any ground station, which would then contact the satellite's operators. I began this project in MATLAB, then moved it to C++ when it got too big to be handled there. Unfortunately I don't have any images from this project, since it was all proprietary, despite having produced a lot of really cool images and GIFs for the project - I'm happy to discuss it more though!</p><br>
 
 <p>
     - Created a MATLAB simulation of a satellite orbiting Earth<br>
