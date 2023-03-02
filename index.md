@@ -36,11 +36,11 @@ My nephew is primarily interested in doing animation (he has been making lego st
     - Created a MATLAB simulation of a satellite orbiting Earth<br>
     - Devised algorithms for 'searching' for ground stations<br>
     - Ported the simulation to C++ when it got too large<br>
-    - Pivoted the purpose of the simulation to using ML and AI algorithms to sort between ground stations and interferers<br>
+    - Applied ML and AI algorithms to sort between ground stations and interferers<br>
     - Modified the simulation to have 2 satellites and 1 ground station<br>
     - As the satellite moved, it would take an 'image' every tick of the simulation<br>
-    - These images were used in ML and AI tests to find the best way to lock on to another satellite or ground station<br>
-    - This software along with Tethers' hardware was provided to NASA at the conclusion of the contract<br>
+    - These images were used to train ML and AI search algorithms<br>
+    - Provided software and satellite hardware to NASA at the contract's conclusion<br>
 </p>
 
 <h2>For other interesting projects less related to game development as well as my resume, please see my <a href="https://bart-olson.github.io/Portfolio/about/">About</a> page!  </h2>
