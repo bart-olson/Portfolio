@@ -2,11 +2,11 @@
 layout: default
 title: Bart Olson Portfolio
 ---
-
+<div style="text-align:center;">
 ---
 <h1 style="text-align:center;">Bartholomew Olson's Software Engineering and Game Development Portfolio  </h1>  
 ---
-<p>change marker 2</p>
+<p>change marker 1</p>
 <p style="text-align:center; max-width: 800px;">Welcome to my portfolio! My name is Bartholomew Olson - I'm an Electrical Engineer, but have been working as a software engineer for the past 5 years. I'm taking those skills and working on making the move into game development. It's been a wild ride and I've done a lot of different things, but I like to think that's where my strengths lie, and I'd like to share some of my experiences with you! I'm also new to website building, so please bear with as this gets developed and starts looking better!  You can see my gamedev-relevant experience below, or head to the bottom to see some links to other interesting projects I've worked on.  </p>
 
 
@@ -52,3 +52,5 @@ My nephew is primarily interested in doing animation (he has been making lego st
 [Blender](https://bart-olson.github.io/Portfolio/blender/)
 [Unreal](https://bart-olson.github.io/Portfolio/unreal/)
 [TestPage](https://bart-olson.github.io/Portfolio/test)
+
+</div>
