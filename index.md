@@ -7,12 +7,13 @@ title: Bart Olson Portfolio
 <h1>Bartholomew Olson's Software Engineering and Game Development Portfolio  </h1>  
 ---
 
-<a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a>
 <a href="https://bart-olson.github.io/Portfolio/about/">About</a>
 <a href="https://bart-olson.github.io/Portfolio/contact/">Contact</a>
 <a href="https://bart-olson.github.io/Portfolio/blender/">Blender</a>
 <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a>
 <a href="https://bart-olson.github.io/Portfolio/test">Test</a><br>
+
+<hr>
 
 <p>Welcome to my portfolio! <br> My name is Bartholomew Olson - I'm an Electrical Engineer, but have been working as a software engineer for the past 5 years. I'm taking those skills and working on making the move into game development. It's been a wild ride and I've done a lot of different things, but I like to think that's where my strengths lie, and I'd like to share some of those experiences with you! I'm also new to website building, so please bear with as this gets developed and starts looking better!  You can see my gamedev-relevant experience below, or head to the bottom to see some links to other interesting projects I've worked on.  </p>
 
