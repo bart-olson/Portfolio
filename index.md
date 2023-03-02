@@ -6,12 +6,11 @@ title: Bart Olson Portfolio
 ---
 <h1>Bartholomew Olson's Software Engineering and Game Development Portfolio  </h1>  
 ---
-<p>change marker 3</p>
-<p>Welcome to my portfolio! My name is Bartholomew Olson - I'm an Electrical Engineer, but have been working as a software engineer for the past 5 years. I'm taking those skills and working on making the move into game development. It's been a wild ride and I've done a lot of different things, but I like to think that's where my strengths lie, and I'd like to share some of those experiences with you! I'm also new to website building, so please bear with as this gets developed and starts looking better!  You can see my gamedev-relevant experience below, or head to the bottom to see some links to other interesting projects I've worked on.  </p>
 
+<p>Welcome to my portfolio! <br> My name is Bartholomew Olson - I'm an Electrical Engineer, but have been working as a software engineer for the past 5 years. I'm taking those skills and working on making the move into game development. It's been a wild ride and I've done a lot of different things, but I like to think that's where my strengths lie, and I'd like to share some of those experiences with you! I'm also new to website building, so please bear with as this gets developed and starts looking better!  You can see my gamedev-relevant experience below, or head to the bottom to see some links to other interesting projects I've worked on.  </p>
 
 <h2>Untitled Survival Game  </h2>
-<p>This is a personal project that I'm using to build my own experience, as well as having a project to get my 13-year old nephew Kenai interested in game development. His favorite games are Minecraft and Valheim, so we settled on a Valheim-style survival game, but in a Lovecraftian Horror setting. You start the game as an aspiring wizard attempting to call a demon from a different realm, but a flaw in the spell sends you there instead! At first the setting seems the same as the forest you attempted the spell in, but as you venture outward, things become stranger and stranger, and the cute, benign demons that greeted you in the forest become intelligent and malicious. We wanted a fun spin on the typical survival experience with a bit of a surprise as you piece together just how wrong things have gone, and work to figure out uses for obscure demon-realm materials.<br><br>
+<p>This is a personal project that I'm using to build my own experience, as well as having a project to get my 13-year old nephew Kenai interested in game development. His favorite games are Minecraft and Valheim, so we settled on a Valheim-style survival game, but in a Lovecraftian Horror setting. You start the game as an aspiring wizard attempting to call a demon from a different realm, but a flaw in the spell sends you there instead! At first the setting seems the same as the forest you attempted the spell in, but as you venture outward, things become stranger and stranger, and the cute, benign demons that greeted you in the forest start becoming intelligent and malicious. We wanted a fun spin on the typical survival experience with a bit of a surprise as you piece together just how wrong things have gone, and work to figure out uses for obscure demon-realm materials.<br><br>
 
 My nephew is primarily interested in doing animation (he has been making lego stop-motion videos for several years) so I'm getting him up to speed in Blender while I work on everything else as a generalized gameplay programmer.  <br><br>
 
@@ -24,7 +23,7 @@ My nephew is primarily interested in doing animation (he has been making lego st
     - Voxel Plugin foliage masking<br>
     - Landscape material creation<br>
     - Simple AI programming<br>
-    - All other general programming work<br>
+    - All other general programming work<br><br>
 </p>
 
 <p>I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a> specific page.  It also includes a lot of more specific information on what I'm doing in Unreal, so feel free to have a look! </p>
@@ -44,11 +43,12 @@ My nephew is primarily interested in doing animation (he has been making lego st
     - This software along with Tethers' hardware was provided to NASA at the conclusion of the contract<br>
 </p>
 
-<h2>For other interesting projects less related to game development, please see my <a href="https://bart-olson.github.io/Portfolio/about/">About/Resume</a> page!  </h2>
+<h2>For other interesting projects less related to game development as well as my resume, please see my <a href="https://bart-olson.github.io/Portfolio/about/">About</a> page!  </h2>
 
-[about](https://bart-olson.github.io/Portfolio/about/)
-[contact](https://bart-olson.github.io/Portfolio/contact/)
-[Blender](https://bart-olson.github.io/Portfolio/blender/)
-[Unreal](https://bart-olson.github.io/Portfolio/unreal/)
-[TestPage](https://bart-olson.github.io/Portfolio/test)
+<a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a>
+<a href="https://bart-olson.github.io/Portfolio/about/">About</a>
+<a href="https://bart-olson.github.io/Portfolio/contact/">Contact</a>
+<a href="https://bart-olson.github.io/Portfolio/blender/">Blender</a>
+<a href="https://bart-olson.github.io/Portfolio/unreal/">Unreal Engine</a>
+<a href="https://bart-olson.github.io/Portfolio/test">Test</a>
 
