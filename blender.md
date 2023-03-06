@@ -30,7 +30,7 @@ permalink: /blender/
 
 <i><img src='https://bart-olson.github.io/Portfolio/assets/trees_21_25.png' width ='600' height='250'></i><br>
 
-<p>Just some simple low poly trees. I live in the forest, and have always been a little disappointed with the lack of 'realism' in low-poly tree packages. So I made my own that's a little more representative of the beat-up trees I hike through every day while I walk the dogs.  </p>
+<p>Just some simple low poly trees. I live in the forest, and have always been a little disappointed with the lack of 'realism' in low-poly tree packages. So I made my own that's a little more representative of the beat-up trees I hike through every day when I'm walking the dogs.  </p>
 
 <hr>
 
