@@ -33,7 +33,7 @@ My nephew is primarily interested in doing animation (he has been making lego st
     - Simple AI programming<br>
     - All other general programming work<br><br>
 </p>
-<i><img src='https://bart-olson.github.io/Portfolio/assets/goblinhead.png' width ='100' height='100'></i><br>
+<i style="text-align:center;"><img src='https://bart-olson.github.io/Portfolio/assets/goblinhead.png' width ='100' height='100'></i><br>
 <i><img src='https://bart-olson.github.io/Portfolio/assets/foliage_masking.png' width ='500' height='250'></i><br>
 <i><img src='https://bart-olson.github.io/Portfolio/assets/runtime_deformation.png' width ='500' height='250'></i>
 
