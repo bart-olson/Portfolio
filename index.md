@@ -33,9 +33,8 @@ My nephew is primarily interested in doing animation (he has been making lego st
     - Simple AI programming<br>
     - All other general programming work<br><br>
 </p>
-<div><img src='https://bart-olson.github.io/Portfolio/assets/goblinhead.png' width ='100' height='100'></div><br>
-<div><img src='https://bart-olson.github.io/Portfolio/assets/foliage_masking.png' width ='500' height='250'></div><br>
-<div><img src='https://bart-olson.github.io/Portfolio/assets/runtime_deformation.png' width ='500' height='250'></div>
+
+<div><img src='https://bart-olson.github.io/Portfolio/assets/foliage_masking.png' width ='500' height='250'> <img src='https://bart-olson.github.io/Portfolio/assets/runtime_deformation.png' width ='500' height='250'></div><br>
 
 <p>I explain the Voxel Plugin and my reasoning for using it over here on my <a href="https://bart-olson.github.io/Portfolio/unreal/"style="font-size: 18px;">Unreal Engine</a> specific page.  I also go into more detail on what I'm doing in Unreal, so feel free to have a look! </p>
 
@@ -54,5 +53,5 @@ My nephew is primarily interested in doing animation (he has been making lego st
     - Provided software and satellite hardware to NASA at the contract's conclusion<br>
 </p>
 
-<h2>For other interesting projects less related to game development as well as my resume, please see my <a href="https://bart-olson.github.io/Portfolio/about/">About</a> page!  </h2>
+<p>For other interesting projects less related to game development as well as my resume, please see my <a href="https://bart-olson.github.io/Portfolio/about/">About</a> page!  </p>
 
